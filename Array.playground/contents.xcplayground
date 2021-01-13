@@ -2,6 +2,7 @@
 <playground version='6.0' target-platform='ios'>
     <pages>
         <page name='268. Missing Number'/>
-        <page name='977. Squares of a Sorted Array '/>
+        <page name='977. Squares of a Sorted Array'/>
+        <page name='53. Maximum Subarray'/>
     </pages>
 </playground>
