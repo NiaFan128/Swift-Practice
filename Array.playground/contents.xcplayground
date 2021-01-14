@@ -4,5 +4,6 @@
         <page name='268. Missing Number'/>
         <page name='977. Squares of a Sorted Array'/>
         <page name='53. Maximum Subarray'/>
+        <page name='1480. Running Sum of 1d Array'/>
     </pages>
 </playground>
