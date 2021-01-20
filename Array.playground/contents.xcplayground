@@ -6,6 +6,7 @@
         <page name='53. Maximum Subarray'/>
         <page name='1480. Running Sum of 1d Array'/>
         <page name='392. Is Subsequence'/>
-        <page name='1512. Number of Good Pairs '/>
+        <page name='1512. Number of Good Pairs'/>
+        <page name='1436. Destination City'/>
     </pages>
 </playground>
