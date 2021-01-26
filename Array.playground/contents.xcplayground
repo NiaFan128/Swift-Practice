@@ -10,5 +10,6 @@
         <page name='1436. Destination City'/>
         <page name='1694. Reformat Phone Number'/>
         <page name='1662.Check If Two String Arrays are Equivalent'/>
+        <page name='1221. Split a String in Balanced Strings'/>
     </pages>
 </playground>
