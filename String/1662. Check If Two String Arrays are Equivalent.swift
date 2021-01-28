@@ -1,3 +1,10 @@
+//
+//  1662. Check If Two String Arrays are Equivalent
+//  
+//
+//  Created by Nia Fan on 2021/01/26.
+//
+
 import Foundation
 
 func arrayStringsAreEqual(_ word1: [String], _ word2: [String]) -> Bool {

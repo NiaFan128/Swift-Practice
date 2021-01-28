@@ -1,6 +1,12 @@
+//
+//  1694. Reformat Phone Number
+//  
+//
+//  Created by Nia Fan on 2021/01/21.
+//
+
 import Foundation
 
-// String
 func reformatNumber(_ number: String) -> String {
     
     let replacedNumber = number.replacingOccurrences(of: " ", with: "").replacingOccurrences(of: "-", with: "")

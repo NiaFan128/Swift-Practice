@@ -1,6 +1,12 @@
+//
+//  1221. Split a String in Balanced Strings
+//  
+//
+//  Created by Nia Fan on 2021/01/25.
+//
+
 import Foundation
 
-// String
 func balancedStringSplit(_ s: String) -> Int {
     
     let sTemp = Array(s)

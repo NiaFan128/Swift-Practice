@@ -1,6 +1,12 @@
+//
+//  392. Is Subsequence
+//  
+//
+//  Created by Nia Fan on 2021/01/18.
+//
+
 import Foundation
 
-// Dynamic Programming
 func isSubsequence(_ s: String, _ t: String) -> Bool {
 
     if t.count < s.count {

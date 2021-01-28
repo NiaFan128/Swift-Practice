@@ -1,7 +1,14 @@
+//
+//  1431. Kids With the Greatest Number of Candies
+//  
+//
+//  Created by Nia Fan on 2021/01/27.
+//
+
 import Foundation
 
-// Array
 func kidsWithCandies(_ candies: [Int], _ extraCandies: Int) -> [Bool] {
+    
     let max = candies.max() ?? 0
     let result = candies.map { (child) in
         return child + extraCandies >= max

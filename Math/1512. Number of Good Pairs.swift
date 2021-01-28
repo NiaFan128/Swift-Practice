@@ -1,6 +1,12 @@
+//
+//  1512. Number of Good Pairs
+//  
+//
+//  Created by Nia Fan on 2021/01/19.
+//
+
 import Foundation
 
-// Math
 func numIdenticalPairs(_ nums: [Int]) -> Int {
     
     var dict: [Int: Int] = [:]
@@ -17,5 +23,3 @@ func numIdenticalPairs(_ nums: [Int]) -> Int {
 
 numIdenticalPairs([1, 3, 2, 3, 1, 1])
 numIdenticalPairs([1 ,1, 1, 1])
-
-
